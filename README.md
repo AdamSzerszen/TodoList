@@ -32,5 +32,5 @@ Przebieg instalacji:
 
 Przykładowe użycie:
 
-a) Aby utworzyć nowy element Todo listy, należy kliknąć przycisk "Create New", podać Name i Description, a na koniec zaakceptować przyciskiem Create.
-b) W celu kolejno edycji, obejżenia szczegółów lub usunięcia elementu, należy wybrać odpowiednią opcję znajdującą się na końcu wiersza danego elementu.
+1. Aby utworzyć nowy element Todo listy, należy kliknąć przycisk "Create New", podać Name i Description, a na koniec zaakceptować przyciskiem Create.
+2. W celu kolejno edycji, obejżenia szczegółów lub usunięcia elementu, należy wybrać odpowiednią opcję znajdującą się na końcu wiersza danego elementu.
