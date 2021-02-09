@@ -7,8 +7,9 @@ Stos technologiczny:
 
 Wymagania wstępne: 
 1) Zaktualizowany wiersz poleceń powershell
-2) Microsoft Visual Studio 2019 PREVIEW (ważne, by była to wersja 2019 preview, gdyż wspiera najnowszą wersję .net framework 5.0 wraz z pakietem technologii webowych)
-3) środowisko kontroli wersji git
+2) Zainstalowany .net framework 5.0
+3) Microsoft Visual Studio 2019 PREVIEW (ważne, by była to wersja 2019 preview, gdyż wspiera najnowszą wersję .net framework 5.0 wraz z pakietem technologii webowych)
+4) środowisko kontroli wersji git
 
 Setup: 
 Instalacja aplikacji została podzielona na dwa etapy: 
